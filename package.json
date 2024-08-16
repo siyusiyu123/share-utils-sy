@@ -1,0 +1,25 @@
+{
+  "name": "shang-utils-sy",
+  "version": "1.0.0",
+  "author": "siyu",
+  "description": "common toolkit",
+  "keywords": [
+    "utils",
+    "format",
+    "money",
+    "phone"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siyusiyu123/shang-utils"
+  },
+  "license": "ISC",
+  "homepage": "https://your-package.org",
+  "bugs": "https://github.com/siyusiyu123/shang-utils/issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
